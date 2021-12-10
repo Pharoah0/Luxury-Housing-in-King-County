@@ -180,7 +180,7 @@ A description of the structure of this repository and its contents:
 
 ```
 └── images                              <- Both sourced externally and generated from code
-├── data                         <- Sourced externally from code
+├── data                                <- Sourced externally from code
 ├── Luxury_Housing_in_King_County.ipynb   
     ^^ Narrative documentation of analysis in Jupyter notebook
 ├── DS_Project_Presentation_2.pdf       <- PDF version of project presentation
