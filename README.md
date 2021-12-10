@@ -1,4 +1,4 @@
-![Logo]((./images/AZ_Cadence_Montage_Savannah_Greatroom_1_1920.jpeg))
+![Logo](./images/AZ_Cadence_Montage_Savannah_Greatroom_1_1920.jpeg)
 
 # Luxury Housing in King County
 
