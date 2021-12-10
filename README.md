@@ -42,7 +42,7 @@ These charts tell us:
 ---
 Next, looked at the multicollinear relationships in the data, with a heatmap for visibility!
 * Any value above 0.75 is considered extreme
-* Variables need to be removed in that case
+* Variables do not need to be removed in this case
 ![Multicollinearity Heatmap](./images/Correlation_of_Continuous_Features_Heatmap_1.png)
 
 ## Models
